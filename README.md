@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BhaveshSolanki2611
+- 🌱 I’m currently learning JAVA and DSA
+- 💞️ I’m looking to collaborate on  Web Devlopment and Fullstack
+- 📫 How to reach me https://www.linkedin.com/in/bhavesh-solanki-475628248/ and bhaveshsolanki26112004@gmail.com
