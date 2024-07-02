@@ -31,6 +31,6 @@ Data analysis for a general store using various analytical tools.
 
 - **LinkedIn:** [Bhavesh Solanki](https://www.linkedin.com/in/bhavesh-solanki-475628248)
 - **GitHub:** [BhaveshSolanki2611](https://github.com/BhaveshSolanki2611)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** bhaveshsolanki26112004@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
