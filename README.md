@@ -13,7 +13,7 @@
 
 ### [WeatherWave-App](https://github.com/BhaveshSolanki2611/WeatherWave-App)
 A clone of Netflix UI with an anime theme.
-- **Technologies used:** HTML, CSS, JavaScript
+- **Technologies used:** HTML, CSS, JavaScript, OpenWeatherMap API
 
 ### [Netflix UI Clone with Anime Theme](https://github.com/BhaveshSolanki2611/netflix-ui-clone)
 Your go-to weather forecasting tool built using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API.
