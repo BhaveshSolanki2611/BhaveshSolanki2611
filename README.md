@@ -11,21 +11,25 @@
 
 ## 💼 Projects
 
-### [Netflix UI Clone with Anime Theme](https://github.com/BhaveshSolanki2611/netflix-ui-clone)
+### [WeatherWave-App](https://github.com/BhaveshSolanki2611/WeatherWave-App)
 A clone of Netflix UI with an anime theme.
 - **Technologies used:** HTML, CSS, JavaScript
 
+### [Netflix UI Clone with Anime Theme](https://github.com/BhaveshSolanki2611/netflix-ui-clone)
+Your go-to weather forecasting tool built using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API.
+- **Technologies used:** HTML, CSS
+
 ### [Anime Pics Generator](https://github.com/BhaveshSolanki2611/anime-pics-generator)
 A web app that generates random anime pictures using APIs.
-- **Technologies used:** JavaScript, HTML, CSS
+- **Technologies used:** HTML, CSS, JavaScript
 
 ### [Second Hand Car Dealership Project](https://github.com/BhaveshSolanki2611/second-hand-car-dealership)
 A project for managing a second-hand car dealership.
-- **Technologies used:** Java, MySQL
+- **Technologies used:** MySQL 
 
 ### [Vrinda General Store Data Analysis Project](https://github.com/BhaveshSolanki2611/vrinda-general-store-analysis)
 Data analysis for a general store using various analytical tools.
-- **Technologies used:** MS Excel, Python
+- **Technologies used:** MS Excel
 
 ## 📫 Contact
 
