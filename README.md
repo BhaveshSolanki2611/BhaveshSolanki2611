@@ -1,35 +1,49 @@
 # Hi, I'm Bhavesh Solanki 👋
 
-🎓 I'm a B. Tech student in Electronics and Communication Engineering with a specialization in AI/ML at Netaji Subhas University of Technology (NSUT), New Delhi, graduating in 2025.
+🎓 I am a B. Tech student specializing in AI/ML under Electronics and Communication Engineering at Netaji Subhas University of Technology (NSUT), New Delhi, graduating in 2025. I am passionate about web development, data analysis, and full-stack technologies.
 
 ## 🛠️ Skills
 
-- **Languages:** Java, Python, C
-- **Web Development:** HTML, CSS, JavaScript
+- **Programming Languages:** Java, Python, C, JavaScript
+- **Web Development:** React.js, Node.js, Express.js, Axios 
+- **Frontend:** HTML, CSS, JavaScript
 - **Databases:** MySQL
-- **Tools:** MS Excel, MS Office, Windows, Linux, Adobe Premiere Pro, EDIUS Pro
+- **Tools:** Postman, MS Excel, MS Office, Git, Vite
 
 ## 💼 Projects
 
+### [React Movie Web-App](https://github.com/BhaveshSolanki2611/React-Movie-Web-App)
+A modern, responsive movie web application built using React.js and Vite to display movie details dynamically.
+- **Features:** Movie search, detailed movie pages, responsive UI, and dynamic theming.
+- **Technologies:** React.js, Vite, JavaScript, HTML, CSS, TMDB API
+  
+### [xeno-crm-campaign-manager](https://github.com/BhaveshSolanki2611/xeno-crm-campaign-manager)
+A Mini CRM & Campaign Management Application built with Node.js, MySQL, and React.js.
+- **Features:** Customer management, audience segmentation, campaign messaging, and tracking.
+- **Technologies:** React.js, Node.js, Express, MySQL, Axios
+
 ### [WeatherWave-App](https://github.com/BhaveshSolanki2611/WeatherWave-App)
-A clone of Netflix UI with an anime theme.
-- **Technologies used:** HTML, CSS, JavaScript, OpenWeatherMap API
+A comprehensive weather forecasting tool leveraging the OpenWeatherMap API.
+- **Features:**  Real-time weather updates, 5-day forecast, weather alerts, geolocation, and dynamic backgrounds.
+- **Technologies:** HTML, CSS, JavaScript, OpenWeatherMap API
 
 ### [Netflix UI Clone with Anime Theme](https://github.com/BhaveshSolanki2611/netflix-ui-clone)
-Your go-to weather forecasting tool built using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API.
-- **Technologies used:** HTML, CSS
+A Netflix UI clone with an anime theme and a responsive design.
+- **Features:** Hover effects, clickable thumbnails, embedded media.
+- **Technologies:** HTML, CSS
+
 
 ### [Anime Pics Generator](https://github.com/BhaveshSolanki2611/anime-pics-generator)
 A web app that generates random anime pictures using APIs.
-- **Technologies used:** HTML, CSS, JavaScript
+- **Technologies:** HTML, CSS, JavaScript
 
 ### [Second Hand Car Dealership Project](https://github.com/BhaveshSolanki2611/second-hand-car-dealership)
 A project for managing a second-hand car dealership.
-- **Technologies used:** MySQL 
+- **Technologies:** MySQL 
 
 ### [Vrinda General Store Data Analysis Project](https://github.com/BhaveshSolanki2611/vrinda-general-store-analysis)
 Data analysis for a general store using various analytical tools.
-- **Technologies used:** MS Excel
+- **Technologies:** MS Excel
 
 ## 📫 Contact
 
@@ -37,4 +51,6 @@ Data analysis for a general store using various analytical tools.
 - **GitHub:** [BhaveshSolanki2611](https://github.com/BhaveshSolanki2611)
 - **Email:** bhaveshsolanki26112004@gmail.com
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+🚀 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+
